@@ -1,0 +1,11 @@
+本目录为数据挖掘-互评作业2的源代码以及实验结果
+dataset为数据集（30GB，此处为空，仅保留路径）
+output为输出结果目录
+--data_preprocess_output目录为预处理之后的数据（此处为空，仅保留路径）
+--analysis_output目录为分析结果
+	--该目录下task1，task2，task3，task4为四个任务的结果目录
+	--每个task目录中都包含该任务的频繁模式、关联规则列表和可视化结果
+src为代码实现，语言python
+--data_preprocess目录为预处理代码
+--analysis为分析代码
+--visualize为可视化代码
